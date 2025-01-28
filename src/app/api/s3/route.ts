@@ -16,8 +16,7 @@ const streamToString = (stream: NodeJS.ReadableStream): Promise<string> => {
 export async function GET(req: NextRequest): Promise<NextResponse> {
   try {
     const bucketName = process.env.MYAWS_S3_BUCKET_NAME;
-    console.log("herere")
-    const fileKey = 'data.json';
+    const fileKey = 'data2.json';
 
     // Log the bucket name to ensure it's being retrieved correctly
     console.log('Bucket Name:', bucketName);

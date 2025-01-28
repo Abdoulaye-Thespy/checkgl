@@ -1,0 +1,24 @@
+[
+    {
+        "fonction": "CEO",
+        "fullName": "NSANGOU ZOUNEDOU",
+        "matricule": "GL-2025-01",
+        "tel": "699997560",
+        "Email": "ceo@globallogistics.cm",
+        "role": "CEO",
+        "photoUrl": "/promoteur.png",
+        "dateExp": "31/12/2025",
+        "comment": "Le Directeur Général"
+    },
+    {
+        "fonction": "Assistante de Direction",
+        "fullName": "HIOL CATHERINE",
+        "matricule": "GL-2025-02",
+        "tel": "694181911",
+        "Email": "sg@globallogisctics.cm",
+        "role": "SD",
+        "photoUrl": "/c.jpg",
+        "dateExp": "31/12/2025",
+        "comment": "Assistante de Direction"
+    }
+]

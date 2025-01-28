@@ -30,10 +30,10 @@ export default function VerificationCard({ student }: VerificationCardProps) { /
             <div className="bg-white rounded-full p-1">
               
               <Image
-                src="/logoround.png"
+                src="/gl.jpg"
                 alt="Logo"
-                width={420}
-                height={420} 
+                width={620}
+                height={620} 
                 className="object-contain"
               />
             </div>
